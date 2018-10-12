@@ -1,0 +1,41 @@
+
+html {
+    font-family: arial, sans-serif;
+    font-size: 10px;
+}
+
+#main {
+    max-width: 1080px;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    background-color: cadetblue;
+}
+
+#title {
+    margin: 0;
+    padding: 1rem;
+    font-family: times, serif;
+    font-size: 3rem;
+    text-align: center;
+}
+
+#image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+#img-caption {
+    text-align: center;
+    font-style: italic;
+}
+
+#tribute-info {
+    line-height: 2.0em;
+    max-width: 540px;
+    margin: 2.0em auto;
+}
+
+#more {
+    text-align: center;
+}
